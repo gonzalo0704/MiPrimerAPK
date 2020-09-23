@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MiPrimerAPK</string>
+    <string name="lblbienvenido">Bienvenido</string>
+    <string name="btnEntrar">Entrar</string>
+
+
+</resources>
